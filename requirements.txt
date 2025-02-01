@@ -1,0 +1,8 @@
+phidata
+yfinance
+packaging
+fastapi
+uvicorn
+groq
+openai
+python - docx
