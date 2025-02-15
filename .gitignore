@@ -1,0 +1,8 @@
+.AgenticVenv/
+__pycache__/
+*.pyc
+*.log
+*.csh
+data/
+config.ini
+.DS_Store  # macOS specific - often a good idea to ignore these
