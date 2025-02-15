@@ -1,1 +1,1 @@
-Chanagees done foor AAgentic aIA
+Chanagees done foor Agentic AI
