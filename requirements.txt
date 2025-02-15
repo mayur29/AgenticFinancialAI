@@ -5,4 +5,6 @@ fastapi
 uvicorn
 groq
 openai
-python - docx
+streamlit
+google - generativeai
+python - dotenv
