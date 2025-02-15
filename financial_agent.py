@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
     try:
         # Replace with your actual Groq API key
-        GROQ_API_KEY = "xx"
+        GROQ_API_KEY = "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"
 
         # Set up and run the analysis
         agent = setup_groq_agent(GROQ_API_KEY)
