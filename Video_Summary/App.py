@@ -16,7 +16,7 @@ load_dotenv()
 
 import os
 
-API_KEY = "AIzaSyCavmIbjwEAakTZkCOgfT3WXzAEV-8M4Ps"  # os.getenv("GOOGLE_API_KEY")
+API_KEY = os.getenv("GOOGLE_API_KEY")
 if API_KEY:
     genai.configure(api_key=API_KEY)
 
